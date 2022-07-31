@@ -6,6 +6,7 @@ def mult(a,b):
 
 def minus(a , b):
     return a - b
+
 def del_s(a,b):
     return a / b
 
